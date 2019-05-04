@@ -48,8 +48,8 @@ li {
   font-size: 22px;
   font-weight: bold;
   border-bottom: 2px;
-  border-style: solid;
-  border-color: red;
+  border-bottom-style: solid;
+  border-bottom-color: transparent;
 }
 
 .navigation a:hover {
