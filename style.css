@@ -47,6 +47,9 @@ li {
   color: #FFF;
   font-size: 22px;
   font-weight: bold;
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: transparent;
 }
 
 .navigation a:hover {
