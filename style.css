@@ -49,7 +49,7 @@ li {
   font-weight: bold;
   border-bottom: 2px;
   border-style: solid;
-  border-color: transparent;
+  border-color: red;
 }
 
 .navigation a:hover {
